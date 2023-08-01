@@ -16,6 +16,8 @@ to-many gatherings with no privacy concerns. This is one of
 the first works to study the usability of web-based navigable
 virtual gatherings that need no sophisticated devices.
 
+The project report regarding the tests done and the results are avilable [here](HCI_Project.pdf).
+
 ### To host the server locally, run the below command 
 `nodejs server_local.js`
 
